@@ -1,0 +1,3 @@
+[submodule "module"]
+	path = module
+	url = git@github.com:maxim-f1/my_module.git
